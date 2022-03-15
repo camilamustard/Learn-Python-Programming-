@@ -40,13 +40,13 @@ if operacao == '+':
   total=num1+num2
   print(total)
 elif operacao == "-":
-  total=num1-num2
-  print(total)
+  total1=num1-num2
+  print(total1)
 elif operacao == '*':
-  total= num1*num2
-  print('total')
+  total2= num1 * num2
+  print(total2)
 elif operacao== '/':
-  total=num1/num2
-  print('total')
+  total3=num1 / num2
+  print(total3)
 else:
   print("operacao invalida")
