@@ -1,0 +1,13 @@
+nome= input("Olá, qual é o seu nome?")
+print("Prazer", nome)
+print("não se preocupe, tudo isso irá passar e tudo ficará bem. Seja bem-vindo a plataforma py da Camila.")
+Resposta= input("vamos testar seus conhecimentos, quem descobriu o Brasil?")
+print("...")
+print("analisando")
+print("1,2,3...")
+print("estou quase pronta,sou um robô que demora para se arrumar.")
+print("Vamos parar de charme e analisar sua resposta;")
+
+print("Será que foi esse cara mesmo?", Resposta, "..., hm, será? eu sendo uma máquina sou livre para te questionar e te induzir ao erro, .")
+Resposta2= input("posso? por favorzinho..." "sei que você é legal.me permite?")
+print(Resposta2, nome, "saiba que viver é uma arte, A vida é uma arte,O mundo é um palco mas quem escreve e vive a história somos nós. Para existir o espetáculo três coisas são essenciais:Uma boa história,Um bom artista e Uma entusiasmada plateia.")
